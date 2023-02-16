@@ -17,6 +17,7 @@ namespace MusicPlayerApp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MusicPlayerApp());
+            //This is interesting
         }
     }
 }
